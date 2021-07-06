@@ -1,0 +1,30 @@
+.form-input {
+    width: 200px;
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.text-input {
+    margin: 15px 0 0 0;
+}
+
+.btn-form {
+    margin: 20px 0 0 50px;
+    width: 100px;
+}
+
+.people {
+    margin-top: 5px;
+    width: 200px;
+    list-style-type: none;
+    background-color: silver;
+    border: 1px solid black;
+}
+
+.ul-people {
+    margin: 10px 0 10px -40px;
+}

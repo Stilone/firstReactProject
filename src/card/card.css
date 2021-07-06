@@ -1,0 +1,27 @@
+.playerOpen {
+    height: 25px;
+    background-color: black;
+    color: #f0f0f0;
+    border-radius: 5px;
+    text-decoration: none;
+    border: none;
+}
+
+.playerOpen:hover {
+    background-color: #f0f0f0;
+    color: black;
+}
+
+.playerOpen:active {
+    background-color: silver;
+    color: #f0f0f0;
+}
+
+.playerOpenBlack {
+    height: 25px;
+    background-color: #f0f0f0;
+    color: black;
+    border-radius: 5px;
+    text-decoration: none;
+    border: none;
+}

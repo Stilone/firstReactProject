@@ -1,0 +1,46 @@
+.btn-white {
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+    background-color: white;
+}
+
+.btn-black {
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+
+.btn-yellow {
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+    background-color: yellow;
+    color: black;
+}
+
+.btn-red {
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    color: white;
+}
+
+.btn-blue {
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+}
+
+.btn-green {
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+    background-color: green;
+    color: white;
+}
